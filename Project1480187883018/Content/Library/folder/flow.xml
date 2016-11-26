@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flow id="52128453-1a34-46b5-9958-17afeaa646fd">
+  <descriptionCdata><![CDATA[]]></descriptionCdata>
+  <annotation></annotation>
+  <name>flow</name>
+  <categories/>
+  <inputs/>
+  <possibleResponses/>
+  <availableResultExpressions/>
+  <resultExpression id="aec49e44-deb4-4450-809d-297b68be7c1d">
+    <annotation></annotation>
+    <name>FailureMessage</name>
+    <fieldName>FailureMessage</fieldName>
+    <sourceType>RAWRESULT</sourceType>
+    <filters/>
+  </resultExpression>
+  <iconSpec id="ae5234de-d080-4a7b-aac1-eef8310c316b">
+    <baseIcon>flow.png</baseIcon>
+    <basePath>System</basePath>
+    <readOnly>false</readOnly>
+    <layers/>
+  </iconSpec>
+  <callouts/>
+  <checkPointFlow>true</checkPointFlow>
+  <compatibleRuntimeContext>false</compatibleRuntimeContext>
+  <historyCheckPointFlow>true</historyCheckPointFlow>
+  <steps/>
+</flow>
